@@ -14,4 +14,4 @@ def divide(x,y):
         return DIVIDE_BY_0_ERROR #rebase conflict resolved
 
 def square(x):
-    return x*y
+    return x*x
