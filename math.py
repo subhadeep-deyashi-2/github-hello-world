@@ -19,4 +19,4 @@ def divide(x,y):
 
 # square implementation
 def square(x):
-    return x*x
+    return x*x+1234
